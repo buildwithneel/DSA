@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/buildwithneel/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0459-repeated-substring-pattern](https://github.com/buildwithneel/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/buildwithneel/DSA/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/buildwithneel/DSA/tree/master/0520-detect-capital) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/buildwithneel/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/buildwithneel/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/buildwithneel/DSA/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/buildwithneel/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
