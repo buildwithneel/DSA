@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/buildwithneel/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/buildwithneel/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/buildwithneel/DSA/tree/master/0006-zigzag-conversion) |
 | [0459-repeated-substring-pattern](https://github.com/buildwithneel/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/buildwithneel/DSA/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/buildwithneel/DSA/tree/master/0520-detect-capital) |
