@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/buildwithneel/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0739-daily-temperatures](https://github.com/buildwithneel/DSA/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/buildwithneel/DSA/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/buildwithneel/DSA/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/buildwithneel/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/buildwithneel/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Stack
@@ -42,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/buildwithneel/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/buildwithneel/DSA/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/buildwithneel/DSA/tree/master/1354-construct-target-array-with-multiple-sums) |
 <!---LeetCode Topics End-->
