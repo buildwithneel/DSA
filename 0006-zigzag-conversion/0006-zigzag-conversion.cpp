@@ -8,7 +8,7 @@ public:
         int cur = 0;
         bool down = true;
 
-        for (char c:sk) {
+        for (char c:s) {
             row[cur] += c;
 
             if (cur == 0)
