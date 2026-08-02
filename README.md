@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/buildwithneel/DSA/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/buildwithneel/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/buildwithneel/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0739-daily-temperatures](https://github.com/buildwithneel/DSA/tree/master/0739-daily-temperatures) |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/buildwithneel/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/buildwithneel/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/buildwithneel/DSA/tree/master/0796-rotate-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/buildwithneel/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
