@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/buildwithneel/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/buildwithneel/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/buildwithneel/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/buildwithneel/DSA/tree/master/0016-3sum-closest) |
 | [0084-largest-rectangle-in-histogram](https://github.com/buildwithneel/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/buildwithneel/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0739-daily-temperatures](https://github.com/buildwithneel/DSA/tree/master/0739-daily-temperatures) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/buildwithneel/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/buildwithneel/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/buildwithneel/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/buildwithneel/DSA/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/buildwithneel/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/buildwithneel/DSA/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
