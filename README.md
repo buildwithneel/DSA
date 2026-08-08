@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/buildwithneel/DSA/tree/master/0018-4sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/buildwithneel/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/buildwithneel/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0485-max-consecutive-ones](https://github.com/buildwithneel/DSA/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/buildwithneel/DSA/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/buildwithneel/DSA/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/buildwithneel/DSA/tree/master/1354-construct-target-array-with-multiple-sums) |
