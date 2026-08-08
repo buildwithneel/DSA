@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/buildwithneel/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/buildwithneel/DSA/tree/master/0018-4sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/buildwithneel/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0238-product-of-array-except-self](https://github.com/buildwithneel/DSA/tree/master/0238-product-of-array-except-self) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/buildwithneel/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0485-max-consecutive-ones](https://github.com/buildwithneel/DSA/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/buildwithneel/DSA/tree/master/0739-daily-temperatures) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/buildwithneel/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/buildwithneel/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
