@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/buildwithneel/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/buildwithneel/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/buildwithneel/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0414-third-maximum-number](https://github.com/buildwithneel/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/buildwithneel/DSA/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/buildwithneel/DSA/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/buildwithneel/DSA/tree/master/1046-last-stone-weight) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/buildwithneel/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/buildwithneel/DSA/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/buildwithneel/DSA/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/buildwithneel/DSA/tree/master/0414-third-maximum-number) |
 ## Backtracking
 |  |
 | ------- |
