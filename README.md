@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/buildwithneel/DSA/tree/master/0067-add-binary) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/buildwithneel/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/buildwithneel/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Design
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/buildwithneel/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/buildwithneel/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/buildwithneel/DSA/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/buildwithneel/DSA/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/buildwithneel/DSA/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/buildwithneel/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/buildwithneel/DSA/tree/master/0459-repeated-substring-pattern) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/buildwithneel/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/buildwithneel/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/buildwithneel/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/buildwithneel/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/buildwithneel/DSA/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/buildwithneel/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/buildwithneel/DSA/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/buildwithneel/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
