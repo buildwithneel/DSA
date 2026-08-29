@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/buildwithneel/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/buildwithneel/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/buildwithneel/DSA/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/buildwithneel/DSA/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/buildwithneel/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/buildwithneel/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/buildwithneel/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/buildwithneel/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/buildwithneel/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/buildwithneel/DSA/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/buildwithneel/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/buildwithneel/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/buildwithneel/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
