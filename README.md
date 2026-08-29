@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/buildwithneel/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/buildwithneel/DSA/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/buildwithneel/DSA/tree/master/0739-daily-temperatures) |
+| [0912-sort-an-array](https://github.com/buildwithneel/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/buildwithneel/DSA/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/buildwithneel/DSA/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1480-running-sum-of-1d-array](https://github.com/buildwithneel/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/buildwithneel/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/buildwithneel/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/buildwithneel/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/buildwithneel/DSA/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/buildwithneel/DSA/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## String
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/buildwithneel/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/buildwithneel/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0912-sort-an-array](https://github.com/buildwithneel/DSA/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/buildwithneel/DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/buildwithneel/DSA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/buildwithneel/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/buildwithneel/DSA/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/buildwithneel/DSA/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/buildwithneel/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/buildwithneel/DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -243,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/buildwithneel/DSA/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/buildwithneel/DSA/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -259,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/buildwithneel/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0912-sort-an-array](https://github.com/buildwithneel/DSA/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -287,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/buildwithneel/DSA/tree/master/0070-climbing-stairs) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/buildwithneel/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
