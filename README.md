@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/buildwithneel/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/buildwithneel/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/buildwithneel/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0149-max-points-on-a-line](https://github.com/buildwithneel/DSA/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/buildwithneel/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/buildwithneel/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/buildwithneel/DSA/tree/master/0162-find-peak-element) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/buildwithneel/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/buildwithneel/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/buildwithneel/DSA/tree/master/0041-first-missing-positive) |
+| [0149-max-points-on-a-line](https://github.com/buildwithneel/DSA/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/buildwithneel/DSA/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/buildwithneel/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/buildwithneel/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/buildwithneel/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/buildwithneel/DSA/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/buildwithneel/DSA/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/buildwithneel/DSA/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -310,4 +313,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/buildwithneel/DSA/tree/master/0912-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/buildwithneel/DSA/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/buildwithneel/DSA/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/buildwithneel/DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
