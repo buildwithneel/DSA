@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/buildwithneel/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/buildwithneel/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/buildwithneel/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0413-arithmetic-slices](https://github.com/buildwithneel/DSA/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/buildwithneel/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/buildwithneel/DSA/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/buildwithneel/DSA/tree/master/0739-daily-temperatures) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/buildwithneel/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/buildwithneel/DSA/tree/master/0413-arithmetic-slices) |
 ## Binary Search
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/buildwithneel/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/buildwithneel/DSA/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/buildwithneel/DSA/tree/master/0070-climbing-stairs) |
+| [0413-arithmetic-slices](https://github.com/buildwithneel/DSA/tree/master/0413-arithmetic-slices) |
 ## Greedy
 |  |
 | ------- |
