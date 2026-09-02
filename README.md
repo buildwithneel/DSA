@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/buildwithneel/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/buildwithneel/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/buildwithneel/DSA/tree/master/0415-add-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/buildwithneel/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/buildwithneel/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Design
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/buildwithneel/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/buildwithneel/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/buildwithneel/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/buildwithneel/DSA/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/buildwithneel/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/buildwithneel/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/buildwithneel/DSA/tree/master/0482-license-key-formatting) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/buildwithneel/DSA/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/buildwithneel/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/buildwithneel/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/buildwithneel/DSA/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
