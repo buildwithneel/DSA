@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/buildwithneel/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0420-strong-password-checker](https://github.com/buildwithneel/DSA/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/buildwithneel/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/buildwithneel/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/buildwithneel/DSA/tree/master/1046-last-stone-weight) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/buildwithneel/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/buildwithneel/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/buildwithneel/DSA/tree/master/0415-add-strings) |
+| [0420-strong-password-checker](https://github.com/buildwithneel/DSA/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/buildwithneel/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/buildwithneel/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/buildwithneel/DSA/tree/master/0482-license-key-formatting) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/buildwithneel/DSA/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/buildwithneel/DSA/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/buildwithneel/DSA/tree/master/0409-longest-palindrome) |
+| [0420-strong-password-checker](https://github.com/buildwithneel/DSA/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/buildwithneel/DSA/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
