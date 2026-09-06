@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/buildwithneel/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/buildwithneel/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/buildwithneel/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/buildwithneel/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/buildwithneel/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/buildwithneel/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/buildwithneel/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/buildwithneel/DSA/tree/master/0041-first-missing-positive) |
 | [0149-max-points-on-a-line](https://github.com/buildwithneel/DSA/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/buildwithneel/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/buildwithneel/DSA/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/buildwithneel/DSA/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/buildwithneel/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/buildwithneel/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/buildwithneel/DSA/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/buildwithneel/DSA/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/buildwithneel/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/buildwithneel/DSA/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/buildwithneel/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/buildwithneel/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/buildwithneel/DSA/tree/master/0415-add-strings) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/buildwithneel/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/buildwithneel/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/buildwithneel/DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/buildwithneel/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/buildwithneel/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/buildwithneel/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0374-guess-number-higher-or-lower](https://github.com/buildwithneel/DSA/tree/master/0374-guess-number-higher-or-lower) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/buildwithneel/DSA/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/buildwithneel/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/buildwithneel/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/buildwithneel/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/buildwithneel/DSA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/buildwithneel/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/buildwithneel/DSA/tree/master/0455-assign-cookies) |
@@ -270,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/buildwithneel/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/buildwithneel/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/buildwithneel/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/buildwithneel/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/buildwithneel/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/buildwithneel/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/buildwithneel/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
