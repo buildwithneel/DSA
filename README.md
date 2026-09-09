@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/buildwithneel/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/buildwithneel/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/buildwithneel/DSA/tree/master/0415-add-strings) |
+| [3871-count-commas-in-range-ii](https://github.com/buildwithneel/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
