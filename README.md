@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/buildwithneel/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/buildwithneel/DSA/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/buildwithneel/DSA/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/buildwithneel/DSA/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/buildwithneel/DSA/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/buildwithneel/DSA/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/buildwithneel/DSA/tree/master/1046-last-stone-weight) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/buildwithneel/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/buildwithneel/DSA/tree/master/0835-image-overlap) |
 ## Binary Indexed Tree
 |  |
 | ------- |
