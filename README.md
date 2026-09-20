@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/buildwithneel/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/buildwithneel/DSA/tree/master/0415-add-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/buildwithneel/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/buildwithneel/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/buildwithneel/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/buildwithneel/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/buildwithneel/DSA/tree/master/0413-arithmetic-slices) |
 | [0940-distinct-subsequences-ii](https://github.com/buildwithneel/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/buildwithneel/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/buildwithneel/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/buildwithneel/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/buildwithneel/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/buildwithneel/DSA/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/buildwithneel/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/buildwithneel/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -429,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/buildwithneel/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/buildwithneel/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
