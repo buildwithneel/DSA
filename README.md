@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/buildwithneel/DSA/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/buildwithneel/DSA/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/buildwithneel/DSA/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/buildwithneel/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/buildwithneel/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/buildwithneel/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/buildwithneel/DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/buildwithneel/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/buildwithneel/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0997-find-the-town-judge](https://github.com/buildwithneel/DSA/tree/master/0997-find-the-town-judge) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/buildwithneel/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/buildwithneel/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/buildwithneel/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/buildwithneel/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/buildwithneel/DSA/tree/master/0413-arithmetic-slices) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/buildwithneel/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/buildwithneel/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/buildwithneel/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0374-guess-number-higher-or-lower](https://github.com/buildwithneel/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/buildwithneel/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/buildwithneel/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/buildwithneel/DSA/tree/master/0070-climbing-stairs) |
 | [0413-arithmetic-slices](https://github.com/buildwithneel/DSA/tree/master/0413-arithmetic-slices) |
 | [0940-distinct-subsequences-ii](https://github.com/buildwithneel/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/buildwithneel/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/buildwithneel/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/buildwithneel/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
