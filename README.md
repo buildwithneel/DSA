@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/buildwithneel/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/buildwithneel/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/buildwithneel/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/buildwithneel/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/buildwithneel/DSA/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/buildwithneel/DSA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/buildwithneel/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/buildwithneel/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/buildwithneel/DSA/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/buildwithneel/DSA/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/buildwithneel/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/buildwithneel/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/buildwithneel/DSA/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/buildwithneel/DSA/tree/master/0831-masking-personal-information) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/buildwithneel/DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/buildwithneel/DSA/tree/master/0070-climbing-stairs) |
 | [0413-arithmetic-slices](https://github.com/buildwithneel/DSA/tree/master/0413-arithmetic-slices) |
+| [0678-valid-parenthesis-string](https://github.com/buildwithneel/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/buildwithneel/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/buildwithneel/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/buildwithneel/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/buildwithneel/DSA/tree/master/0409-longest-palindrome) |
 | [0420-strong-password-checker](https://github.com/buildwithneel/DSA/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/buildwithneel/DSA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/buildwithneel/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/buildwithneel/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/buildwithneel/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/buildwithneel/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/buildwithneel/DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/buildwithneel/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/buildwithneel/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/buildwithneel/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/buildwithneel/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
