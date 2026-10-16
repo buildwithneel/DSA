@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/buildwithneel/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/buildwithneel/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/buildwithneel/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/buildwithneel/DSA/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/buildwithneel/DSA/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/buildwithneel/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/buildwithneel/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/buildwithneel/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/buildwithneel/DSA/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/buildwithneel/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/buildwithneel/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/buildwithneel/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/buildwithneel/DSA/tree/master/0287-find-the-duplicate-number) |
