@@ -1,34 +1,29 @@
 class Solution {
 public:
-    const int mod = 1e9 + 7;
+    const int MOD=1000000007;
 
-    long long comb[1001][1001];
+    long long comb[1001][1001]={};
 
-    int solve(vector<int>& nums) {
-        if(nums.size() <= 2) return 1;
+    int ways(vector<int>& nums) {
+        int n=nums.size();
+        if(n<=2) return 1;
 
-        vector<int> left, right;
-
-        for(int i = 1; i < nums.size(); i++) {
-            if(nums[i] < nums[0]) left.push_back(nums[i]);
-            else right.push_back(nums[i]);
+        vector<int> l,r;
+        for(int i=1;i<n;i++){
+            if(nums[i]<nums[0]) l.push_back(nums[i]);
+            else r.push_back(nums[i]);
         }
 
-        long long l = solve(left);
-        long long r = solve(right);
-
-        return comb[nums.size() - 1][left.size()] * l % mod * r % mod;
+        return comb[n-1][l.size()]*1LL*ways(l)%MOD*ways(r)%MOD;
     }
 
     int numOfWays(vector<int>& nums) {
-        memset(comb, 0, sizeof(comb));
-
-        for(int i = 0; i <= nums.size(); i++) {
-            comb[i][0] = comb[i][i] = 1;
-            for(int j = 1; j < i; j++)
-                comb[i][j] = (comb[i - 1][j - 1] + comb[i - 1][j]) % mod;
+        int n=nums.size();
+        for(int i=0;i<=n;i++){
+            comb[i][0]=comb[i][i]=1;
+            for(int j=1;j<i;j++)
+                comb[i][j]=(comb[i-1][j-1]+comb[i-1][j])%MOD;
         }
-
-        return (solve(nums) - 1 + mod) % mod;
+        return (ways(nums)-1+MOD)%MOD;
     }
 };
