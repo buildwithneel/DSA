@@ -645,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/buildwithneel/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/buildwithneel/DSA/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
