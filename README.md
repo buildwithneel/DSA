@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/buildwithneel/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/buildwithneel/DSA/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/buildwithneel/DSA/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/buildwithneel/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/buildwithneel/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/buildwithneel/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/buildwithneel/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/buildwithneel/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/buildwithneel/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/buildwithneel/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/buildwithneel/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/buildwithneel/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/buildwithneel/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/buildwithneel/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/buildwithneel/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/buildwithneel/DSA/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/buildwithneel/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/buildwithneel/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/buildwithneel/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0413-arithmetic-slices](https://github.com/buildwithneel/DSA/tree/master/0413-arithmetic-slices) |
