@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/buildwithneel/DSA/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/buildwithneel/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/buildwithneel/DSA/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/buildwithneel/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/buildwithneel/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/buildwithneel/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/buildwithneel/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/buildwithneel/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/buildwithneel/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/buildwithneel/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/buildwithneel/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/buildwithneel/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/buildwithneel/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/buildwithneel/DSA/tree/master/0096-unique-binary-search-trees) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/buildwithneel/DSA/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/buildwithneel/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/buildwithneel/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/buildwithneel/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/buildwithneel/DSA/tree/master/0200-number-of-islands) |
