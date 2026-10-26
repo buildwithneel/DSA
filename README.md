@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/buildwithneel/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/buildwithneel/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/buildwithneel/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/buildwithneel/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/buildwithneel/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/buildwithneel/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/buildwithneel/DSA/tree/master/3886-sum-of-sortable-integers) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/buildwithneel/DSA/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/buildwithneel/DSA/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/buildwithneel/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/buildwithneel/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/buildwithneel/DSA/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/buildwithneel/DSA/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/buildwithneel/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/buildwithneel/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/buildwithneel/DSA/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/buildwithneel/DSA/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/buildwithneel/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/buildwithneel/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -677,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/buildwithneel/DSA/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/buildwithneel/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/buildwithneel/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/buildwithneel/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
