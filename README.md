@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/buildwithneel/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/buildwithneel/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/buildwithneel/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/buildwithneel/DSA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/buildwithneel/DSA/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/buildwithneel/DSA/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/buildwithneel/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/buildwithneel/DSA/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/buildwithneel/DSA/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/buildwithneel/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/buildwithneel/DSA/tree/master/0118-pascals-triangle) |
 | [0413-arithmetic-slices](https://github.com/buildwithneel/DSA/tree/master/0413-arithmetic-slices) |
 | [0678-valid-parenthesis-string](https://github.com/buildwithneel/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/buildwithneel/DSA/tree/master/0940-distinct-subsequences-ii) |
