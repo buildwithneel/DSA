@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/buildwithneel/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/buildwithneel/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0067-add-binary](https://github.com/buildwithneel/DSA/tree/master/0067-add-binary) |
+| [0087-scramble-string](https://github.com/buildwithneel/DSA/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/buildwithneel/DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/buildwithneel/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/buildwithneel/DSA/tree/master/0242-valid-anagram) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/buildwithneel/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/buildwithneel/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/buildwithneel/DSA/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/buildwithneel/DSA/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/buildwithneel/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0413-arithmetic-slices](https://github.com/buildwithneel/DSA/tree/master/0413-arithmetic-slices) |
 | [0678-valid-parenthesis-string](https://github.com/buildwithneel/DSA/tree/master/0678-valid-parenthesis-string) |
