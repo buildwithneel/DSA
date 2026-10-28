@@ -1,19 +1,49 @@
 class Solution {
 public:
-    int minCost(vector<vector<int>>& grid) {    
+    int minCost(vector<vector<int>>& grid) {
         int m = grid.size(), n = grid[0].size();
-        vector<vector<vector<bool>>> reach(m, vector<vector<bool>>(n, vector<bool>(1024, false)));
-        reach[0][0][grid[0][0]] = true;
+
+        if (n > m) {
+            vector<vector<int>> t(n, vector<int>(m));
+            for (int i = 0; i < m; i++)
+                for (int j = 0; j < n; j++) t[j][i] = grid[i][j];
+            grid = std::move(t);
+            swap(m, n);
+        }
+
+        int mx = 0;
+        for (auto& row : grid)
+            for (int v : row) mx = max(mx, v);
+
+        int B = 1;
+        while (B <= mx) B <<= 1;
+
+        vector<vector<char>> dp(n, vector<char>(B, 0));
+        vector<char> next(B);
+
         for (int r = 0; r < m; r++) {
             for (int c = 0; c < n; c++) {
-                for (int x = 0; x < 1024; x++) {
-                    if (!reach[r][c][x]) continue;
-                    if (r + 1 < m) reach[r + 1][c][x ^ grid[r + 1][c]] = true;
-                    if (c + 1 < n) reach[r][c + 1][x ^ grid[r][c + 1]] = true;
-                }}}
-        for (int x = 0; x < 1024; x++) {
-            if (reach[m - 1][n - 1][x]) 
-            return x;}
+                int v = grid[r][c];
+                fill(next.begin(), next.end(), 0);
+
+                if (r == 0 && c == 0) {
+                    next[v] = 1;
+                } else {
+                    for (int x = 0; x < B; x++) {
+                        if ((r > 0 && dp[c][x]) || (c > 0 && dp[c - 1][x])) {
+                            next[x ^ v] = 1;
+                        }
+                    }
+                }
+
+                dp[c].swap(next);
+            }
+        }
+
+        for (int x = 0; x < B; x++) {
+            if (dp[n - 1][x]) return x;
+        }
+
         return -1;
     }
 };
