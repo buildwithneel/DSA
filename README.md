@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/buildwithneel/DSA/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/buildwithneel/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/buildwithneel/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/buildwithneel/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/buildwithneel/DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/buildwithneel/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/buildwithneel/DSA/tree/master/0063-unique-paths-ii) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/buildwithneel/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/buildwithneel/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/buildwithneel/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/buildwithneel/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/buildwithneel/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/buildwithneel/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/buildwithneel/DSA/tree/master/0064-minimum-path-sum) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/buildwithneel/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/buildwithneel/DSA/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/buildwithneel/DSA/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/buildwithneel/DSA/tree/master/0409-longest-palindrome) |
 | [0420-strong-password-checker](https://github.com/buildwithneel/DSA/tree/master/0420-strong-password-checker) |
