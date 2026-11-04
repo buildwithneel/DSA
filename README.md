@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/buildwithneel/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/buildwithneel/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/buildwithneel/DSA/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/buildwithneel/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/buildwithneel/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/buildwithneel/DSA/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/buildwithneel/DSA/tree/master/0047-permutations-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/buildwithneel/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/buildwithneel/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/buildwithneel/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/buildwithneel/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/buildwithneel/DSA/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/buildwithneel/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/buildwithneel/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/buildwithneel/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/buildwithneel/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/buildwithneel/DSA/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/buildwithneel/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/buildwithneel/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/buildwithneel/DSA/tree/master/0090-subsets-ii) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/buildwithneel/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/buildwithneel/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/buildwithneel/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/buildwithneel/DSA/tree/master/0063-unique-paths-ii) |
@@ -804,4 +808,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/buildwithneel/DSA/tree/master/0169-majority-element) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/buildwithneel/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/buildwithneel/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
