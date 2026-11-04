@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/buildwithneel/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/buildwithneel/DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/buildwithneel/DSA/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/buildwithneel/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/buildwithneel/DSA/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/buildwithneel/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/buildwithneel/DSA/tree/master/0217-contains-duplicate) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/buildwithneel/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0149-max-points-on-a-line](https://github.com/buildwithneel/DSA/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/buildwithneel/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/buildwithneel/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/buildwithneel/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/buildwithneel/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/buildwithneel/DSA/tree/master/0268-missing-number) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/buildwithneel/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/buildwithneel/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/buildwithneel/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/buildwithneel/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/buildwithneel/DSA/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/buildwithneel/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/buildwithneel/DSA/tree/master/0912-sort-an-array) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/buildwithneel/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/buildwithneel/DSA/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/buildwithneel/DSA/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/buildwithneel/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/buildwithneel/DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/buildwithneel/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/buildwithneel/DSA/tree/master/0242-valid-anagram) |
@@ -544,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/buildwithneel/DSA/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/buildwithneel/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Radix Sort
 |  |
@@ -775,4 +780,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/buildwithneel/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/buildwithneel/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
