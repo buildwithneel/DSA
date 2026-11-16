@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/buildwithneel/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/buildwithneel/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/buildwithneel/DSA/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/buildwithneel/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/buildwithneel/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/buildwithneel/DSA/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/buildwithneel/DSA/tree/master/0087-scramble-string) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/buildwithneel/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/buildwithneel/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/buildwithneel/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/buildwithneel/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/buildwithneel/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/buildwithneel/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/buildwithneel/DSA/tree/master/0206-reverse-linked-list) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/buildwithneel/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/buildwithneel/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/buildwithneel/DSA/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/buildwithneel/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/buildwithneel/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/buildwithneel/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/buildwithneel/DSA/tree/master/0062-unique-paths) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/buildwithneel/DSA/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/buildwithneel/DSA/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/buildwithneel/DSA/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/buildwithneel/DSA/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/buildwithneel/DSA/tree/master/0409-longest-palindrome) |
